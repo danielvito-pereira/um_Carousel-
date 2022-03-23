@@ -27,7 +27,7 @@ body {
 .item {
     flex:none;
 
-    width:100%;
+    width:50%;
     height:100%;
 
     scroll-snap-align:start;/* segunda propriedade que faz quando o usuario utilizar o scroll na imgem deixando ele meio a meio com outra ele mude para a maior automaticamente */
